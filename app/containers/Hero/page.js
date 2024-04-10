@@ -1,6 +1,6 @@
-import BigText from '@/app/components/HeroLeft/BigText'
-import { HeroLeft } from '@/app/components/HeroLeft/page'
-import HeroRight from '@/app/components/HeroRight/page'
+import BigText from '../../../app/components/HeroLeft/BigText'
+import { HeroLeft } from '../../../app/components/HeroLeft/page'
+import HeroRight from '../../../app/components/HeroRight/page'
 import React from 'react'
 
 const Hero = () => {

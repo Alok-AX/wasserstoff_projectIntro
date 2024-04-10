@@ -1,6 +1,5 @@
 import React from 'react';
 import Image from 'next/image';
-import Qr from '../../../public/Images/Qr_code.png'
 import Marquee from '../Marquee/page';
 
 import Ellipse1 from '../../../public/Images/ellipse-1.png'

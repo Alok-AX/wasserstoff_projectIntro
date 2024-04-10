@@ -8,7 +8,6 @@ import slider5 from '../../../../public/Images/slider-5.png'
 import slider6 from '../../../../public/Images/slider-6.png'
 import slider2 from '../../../../public/Images/slider-2.png'
 import slider4 from '../../../../public/Images/slider-4.png'
-import location from '../../../../public/Images/location_on.png'
 const SliderContainerTwo = () => {
     let sliderRef = useRef(null);
     const next = () => {
